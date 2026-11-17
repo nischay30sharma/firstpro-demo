@@ -1,4 +1,4 @@
 # firstpro-demo
 This is my second git repository. 
 <br>
-Author- Nischay Sharma
+Author- Nischay Sharma (Yash Technologies)
